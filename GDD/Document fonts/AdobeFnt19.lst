@@ -1,0 +1,117 @@
+%!Adobe-FontList 1.19
+%Locale:0x80a
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CenturyGothic
+FamilyName:Century Gothic
+StyleName:Regular
+FullName:Century Gothic
+MenuName:Century Gothic
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Val\Desktop\BeeHive\GDD\Document fonts\GOTHIC.TTF
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:137568
+FileModTime:1438244872
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Century Gothic
+NameArray:0,Win,1,Century Gothic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CenturyGothic-Bold
+FamilyName:Century Gothic
+StyleName:Bold
+FullName:Century Gothic Bold
+MenuName:Century Gothic
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\Val\Desktop\BeeHive\GDD\Document fonts\GOTHICB.TTF
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:129676
+FileModTime:1438244872
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Century Gothic Bold
+NameArray:0,Win,1,Century Gothic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CenturyGothic-BoldItalic
+FamilyName:Century Gothic
+StyleName:Bold Italic
+FullName:Century Gothic Bold Italic
+MenuName:Century Gothic
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\Val\Desktop\BeeHive\GDD\Document fonts\GOTHICBI.TTF
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:139084
+FileModTime:1438244872
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Century Gothic Bold Italic
+NameArray:0,Win,1,Century Gothic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CenturyGothic-Italic
+FamilyName:Century Gothic
+StyleName:Italic
+FullName:Century Gothic Italic
+MenuName:Century Gothic
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Val\Desktop\BeeHive\GDD\Document fonts\GOTHICI.TTF
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:148520
+FileModTime:1438244872
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Century Gothic Italic
+NameArray:0,Win,1,Century Gothic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Uni0553
+FamilyName:uni 05_53
+StyleName:Regular
+FullName:uni 05_53 Regular
+MenuName:uni 05_53
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Val\Desktop\BeeHive\GDD\Document fonts\uni0553-webfont.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:138460
+FileModTime:1535046638
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,uni 05_53
+%EndFont
+
