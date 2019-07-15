@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 933cbaf0c51a6c9449d157f3aacc81db
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - spawn: {instanceID: 0}
+  - abejota: {fileID: 1090714207222286, guid: 2ee5a5ea6f3fa4cdbb291522c7584daf, type: 2}
+  - panelNivel: {fileID: 1037099235810128, guid: 83cc8eb27e32e40a5951882e080a9094,
+      type: 2}
+  - nivel: {fileID: 114102555329893694, guid: b828f4efe74a14cd0a8025c9df12daa0, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
